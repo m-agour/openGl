@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\openglv2\openglv2\scr\headers\SHADER_S.h(42,40): warning C4101: 'e': unreferenced local variable
+C:\openglv2\openglv2\scr\Source.cpp(168,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\openglv2\openglv2\scr\Source.cpp(170,24): warning C4305: '-=': truncation from 'double' to 'float'
+  openglv2.vcxproj -> C:\openglv2\x64\Debug\openglv2.exe
